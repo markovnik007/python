@@ -1,7 +1,5 @@
 # coding : utf-8
 
-import os
-
 # Коментарий
 
 print("Калькулятор v0.0.1")
